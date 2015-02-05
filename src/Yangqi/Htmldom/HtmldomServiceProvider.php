@@ -18,7 +18,7 @@ class HtmldomServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('yangqi/htmldom');
+		//$this->package('yangqi/htmldom');
 	}
 
 	/**
